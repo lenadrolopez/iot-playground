@@ -1,1 +1,4 @@
 libraries/
+tools/
+.Ds_store
+.DS_store
